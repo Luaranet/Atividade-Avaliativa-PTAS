@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-handlebars": "^7.1.2",
+    "nodemon": "^3.1.0",
+    "pg": "^8.11.5",
+    "sequelize": "^6.37.3"
+  },
+  "name": "atividade-avaliativa-ptas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luaranet/Atividade-Avaliativa-PTAS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luaranet/Atividade-Avaliativa-PTAS/issues"
+  },
+  "homepage": "https://github.com/Luaranet/Atividade-Avaliativa-PTAS#readme",
+  "description": ""
+}
